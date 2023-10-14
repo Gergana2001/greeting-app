@@ -1,1 +1,1 @@
-# greeting-app
+SPA (Single Page Application) for greeting videos. The technologies used for this SPA include React, React Bootstrap, and Sass for stylization. The app features filtration, infinite scroll, and other functionalities."
